@@ -1,0 +1,14 @@
+body
+{
+	background-image: url(http://math-quiz.co.uk/assets/images/mq_logo_large_slide.png);
+    background-color:goldenrod;
+    cursor: cell;
+}
+
+#done
+{
+    width: 200px;
+    height: 80px;
+    font-size: 50px;
+    cursor:grabbing;
+}

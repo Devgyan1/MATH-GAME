@@ -1,0 +1,58 @@
+body
+{
+	background-image: url(http://math-quiz.co.uk/assets/images/mq_logo_large_slide.png);
+    background-color: chocolate;
+    cursor: cell;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#p1
+{
+    background-color: cyan;
+    cursor: vertical-text;
+}
+
+#p2
+{
+    background-color: cadetblue;
+    cursor: vertical-text;
+}
+
+#go
+{
+    width: 200px;
+    height: 80px;
+    font-size: 50px;
+    cursor:grabbing;
+}
